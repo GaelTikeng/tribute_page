@@ -1,5 +1,5 @@
 * {
-  background-color: lightgray;
+  background-color: #eeee;
 }
 
 .full {
@@ -22,7 +22,7 @@
 #image {
   width: 100%;
   max-width: 1000px;
-  height: 90vh;
+  height: 100vh;
   display: block;
   margin: 0 auto;
 }
