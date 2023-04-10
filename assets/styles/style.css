@@ -1,0 +1,49 @@
+* {
+  background-color: #eeee;
+}
+
+.full {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.full p {
+  font-size: 20px;
+  margin: 10px;
+}
+
+#image-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#image {
+  width: 100%;
+  max-width: 1000px;
+  height: 100vh;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px;
+  background-color: white;
+  text-align: center;
+}
+
+#text h2 {
+  text-align: center;
+}
+
+.life {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.reference {
+  margin-left: 250px;
+  margin-right: 150px;
+  font-size: 20px;
+}
